@@ -3,7 +3,7 @@
 //  GitLab
 //
 //  Created by GREEK, DILLON L. on 4/10/24.
-//
+//shane mrad
 
 import SwiftUI
 
@@ -13,7 +13,8 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("This is page one")
+            
             
             
         }

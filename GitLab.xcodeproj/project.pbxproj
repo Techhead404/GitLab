@@ -16,6 +16,7 @@
 		2A0C56F42BC6DB2B00623C1F /* GitLabTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A0C56F32BC6DB2B00623C1F /* GitLabTests.swift */; };
 		2A0C56FE2BC6DB2B00623C1F /* GitLabUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A0C56FD2BC6DB2B00623C1F /* GitLabUITests.swift */; };
 		2A0C57002BC6DB2B00623C1F /* GitLabUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A0C56FF2BC6DB2B00623C1F /* GitLabUITestsLaunchTests.swift */; };
+		BEF75C702BC6E14A00478AA2 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF75C6F2BC6E14A00478AA2 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2A0C56F92BC6DB2B00623C1F /* GitLabUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitLabUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A0C56FD2BC6DB2B00623C1F /* GitLabUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitLabUITests.swift; sourceTree = "<group>"; };
 		2A0C56FF2BC6DB2B00623C1F /* GitLabUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitLabUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BEF75C6F2BC6E14A00478AA2 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				2A0C56E12BC6DB2900623C1F /* GitLabApp.swift */,
 				152770B12BC6E0D200CC0384 /* CreateRecipe.swift */,
 				2A0C56E32BC6DB2900623C1F /* ContentView.swift */,
+				BEF75C6F2BC6E14A00478AA2 /* SwiftUIView.swift */,
 				2A0C56E52BC6DB2A00623C1F /* Assets.xcassets */,
 				2A0C56E72BC6DB2A00623C1F /* GitLab.entitlements */,
 				2A0C56E82BC6DB2A00623C1F /* Preview Content */,
@@ -269,6 +272,7 @@
 				152770B22BC6E0D200CC0384 /* CreateRecipe.swift in Sources */,
 				2A0C56E42BC6DB2900623C1F /* ContentView.swift in Sources */,
 				2A0C56E22BC6DB2900623C1F /* GitLabApp.swift in Sources */,
+				BEF75C702BC6E14A00478AA2 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
