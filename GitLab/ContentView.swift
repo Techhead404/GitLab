@@ -1,4 +1,4 @@
-`//
+//
 //  ContentView.swift
 //  GitLab
 //
@@ -21,4 +21,6 @@ struct ContentView: View {
     }
 }
 
-
+#Preview {
+    ContentView()
+}

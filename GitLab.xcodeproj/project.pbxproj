@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		152770B02BC6E07900CC0384 /* RecipeData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152770AF2BC6E07900CC0384 /* RecipeData.swift */; };
+		152770B22BC6E0D200CC0384 /* CreateRecipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 152770B12BC6E0D200CC0384 /* CreateRecipe.swift */; };
 		2A0C56E22BC6DB2900623C1F /* GitLabApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A0C56E12BC6DB2900623C1F /* GitLabApp.swift */; };
 		2A0C56E42BC6DB2900623C1F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A0C56E32BC6DB2900623C1F /* ContentView.swift */; };
 		2A0C56E62BC6DB2A00623C1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A0C56E52BC6DB2A00623C1F /* Assets.xcassets */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		152770AF2BC6E07900CC0384 /* RecipeData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeData.swift; sourceTree = "<group>"; };
+		152770B12BC6E0D200CC0384 /* CreateRecipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateRecipe.swift; sourceTree = "<group>"; };
 		2A0C56DE2BC6DB2900623C1F /* GitLab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitLab.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A0C56E12BC6DB2900623C1F /* GitLabApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitLabApp.swift; sourceTree = "<group>"; };
 		2A0C56E32BC6DB2900623C1F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -95,7 +99,9 @@
 		2A0C56E02BC6DB2900623C1F /* GitLab */ = {
 			isa = PBXGroup;
 			children = (
+				152770AF2BC6E07900CC0384 /* RecipeData.swift */,
 				2A0C56E12BC6DB2900623C1F /* GitLabApp.swift */,
+				152770B12BC6E0D200CC0384 /* CreateRecipe.swift */,
 				2A0C56E32BC6DB2900623C1F /* ContentView.swift */,
 				2A0C56E52BC6DB2A00623C1F /* Assets.xcassets */,
 				2A0C56E72BC6DB2A00623C1F /* GitLab.entitlements */,
@@ -259,6 +265,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				152770B02BC6E07900CC0384 /* RecipeData.swift in Sources */,
+				152770B22BC6E0D200CC0384 /* CreateRecipe.swift in Sources */,
 				2A0C56E42BC6DB2900623C1F /* ContentView.swift in Sources */,
 				2A0C56E22BC6DB2900623C1F /* GitLabApp.swift in Sources */,
 			);
